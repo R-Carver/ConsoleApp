@@ -10,7 +10,6 @@ namespace GitTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bist du das Viech?");
             Console.WriteLine("Wie meinst Du das?");
             Console.WriteLine("Dann bist DU es nicht!");
         }
